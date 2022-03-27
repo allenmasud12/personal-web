@@ -1,0 +1,99 @@
+                    body {
+                    font-family: 'Poppins', sans-serif;
+                    font-weight: 400;
+                    margin: 0;
+                }
+                
+                h2 {
+                    font-size: 22px;
+                    font-weight: 400;
+                }
+                
+                h1 {
+                    color: #FF0066;
+                    letter-spacing: 5px;
+                }
+                
+                p {
+                    color: dimgray;
+                }
+                
+                .half-w {
+                    width: 40%;
+                    padding-left: 50px;
+                    float: left;
+                    margin-left: 5%;
+                    padding-left: 2%;
+                }
+                
+                .half-w img {
+                    width: 80%;
+                    height: 40%;
+                }
+                
+                section {
+                    height: 500px;
+                    padding-bottom: 100px;
+                }
+                
+                .link-button {
+                    text-decoration: none;
+                    background-color: #FF0066;
+                    padding: 10px 20px;
+                    border-radius: 6px;
+                    color: #fff;
+                    font-weight: bold;
+                }
+                
+                .top-b {
+                    background-image: url(./image/header-bg.png);
+                    background-repeat: no-repeat;
+                }
+                
+                .middle-b {
+                    background-image: url(./image/biography-bg.png);
+                    background-repeat: no-repeat;
+                }
+                
+                .hd-work {
+                    text-align: center;
+                    font-weight: bold;
+                }
+                
+                .work-box img {
+                    width: 350px;
+                    height: 300px;
+                }
+                
+                .work-box img:hover {
+                    transform: translate(0, -5px);
+                }
+                
+                .work-box {
+                    text-align: center;
+                    background-image: url(./image/latest-work-bg.png);
+                    background-repeat: no-repeat;
+                }
+                
+                h6 {
+                    font-weight: 300;
+                    color: dimgray;
+                    text-align: center;
+                }
+                
+                .lorem {
+                    text-align: center;
+                    color: black;
+                }
+                
+                .lorem2 {
+                    color: black;
+                    font-size: 10px;
+                }
+                
+                .gmail {
+                    text-align: center;
+                    background-color: #FF0066;
+                    box-sizing: border-box;
+                    padding-left: 50px;
+                    padding-right: 50px;
